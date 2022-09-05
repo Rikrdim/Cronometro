@@ -1,0 +1,40 @@
+body {
+    background-color: rgba(10, 10, 10, 0.863)
+}
+
+h1 {
+    color: white;
+}
+
+div {
+    text-align: center;
+}
+
+button {
+    height: 2.2em;
+    width: 5.5em;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.iniciar-btn {
+    background: rgb(28, 255, 28);
+    border-radius: 9px;
+    border: none
+}
+
+.pausar-btn {
+    background: rgb(173, 173, 173);
+    border-radius: 9px;
+    border: none
+
+}
+
+.parar-btn {
+    background: rgb(255, 22, 22);
+    border-radius: 9px;
+    border: none
+
+}
